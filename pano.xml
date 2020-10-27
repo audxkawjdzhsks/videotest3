@@ -82,7 +82,7 @@
       <preview color="0x808080" strip="1"/>
       <video startonload="1" startmutedmobile="0" format="equirectangular" endaction="loop">
         <source url="videos/[SHANA]Sign1_813.webm"/>
-        <source url="videos/[SHANA]Sign1_811.mp4"/>
+        <source url="videos/[SHANA]Sign1_812.mp4"/>
       </video>
     </input>
     <view fovmode="0" pannorth="0">
